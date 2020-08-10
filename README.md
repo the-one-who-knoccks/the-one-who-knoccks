@@ -5,9 +5,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/the.one.who.knoccks/)](https://www.instagram.com/the.one.who.knoccks/)
 [![Email Badge](https://img.shields.io/badge/-Email-3ABFE6?style=flat-square&logo=minutemailer&logoColor=white&link=mailto:thiagoalves.devp@gmail.com)](mailto:thiagoalves.devp@gmail.com)
 
-Hello, my name is Thiago Alves and I'm an aspiring fullstack developer 🚀
+Hello, my name is Thiago Alves and I'm a fullstack developer 🚀
 
- - ⚡ My current skills are: HTML, CSS, Vanilla JS, Node.js, SQL, MongoDB and docker.
+ - ⚡ My current skills are: HTML, CSS, Vanilla JS, Node.js, SQL, MongoDB and Docker.
  - 📚 I'm a software developer student at Rocketseat.
  - 🌱 I'm Currently learning ReactJS, React Native and Typescript.
  - 📫 Contact me: thiagoalves.devp@gmail.com
