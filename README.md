@@ -10,6 +10,7 @@ Hello, my name is Thiago Alves and I'm a fullstack developer 🚀
  - ⚡ My current skills are: HTML, CSS, Vanilla JS, Node.js, SQL, MongoDB and Docker.
  - 📚 I'm a software developer student at Rocketseat.
  - 🌱 I'm Currently learning ReactJS, React Native and Typescript.
+ - ⚡ UI / UX design enthusiast
  - 📫 Contact me: thiagoalves.devp@gmail.com
 
 #### Thanks for visiting my profile! 
