@@ -13,4 +13,4 @@ Hello, my name is Thiago Alves and I'm a fullstack developer 🚀
  - ⚡ UI / UX design enthusiast
  - 📫 Contact me: thiagoalves.devp@gmail.com
 
-#### Thanks for visiting my profile! 
+#### Thanks for visiting my profile!  
