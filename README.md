@@ -1,4 +1,3 @@
-# Welcome! 👋
 
 Hello, my name is Thiago Alves and I'm a fullstack developer 🚀
 
@@ -12,5 +11,11 @@ Hello, my name is Thiago Alves and I'm a fullstack developer 🚀
 
  
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=the-one-who-knoccks&show_icons=true&theme=cobalt)
+ 
+ 
+
+
+[<img align="left" alt="the-one-who-knoccks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/thiagoalves89/]
+[<img align="left" alt="the-one-who-knoccks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://www.instagram.com/the.one.who.knoccks/]
 
 #### Thanks for visiting my profile!  
