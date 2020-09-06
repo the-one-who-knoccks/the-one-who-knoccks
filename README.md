@@ -14,6 +14,8 @@ Hello, my name is Thiago Alves and I'm a fullstack developer 🚀
  - 📫 Contact me: thiagoalves.devp@gmail.com
  
  
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=the-one-who-knoccks)](https://github.com/anuraghazra/github-readme-stats)
+
+ 
+ ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=the-one-who-knoccksa&show_icons=true&theme=radical)
 
 #### Thanks for visiting my profile!  
