@@ -7,8 +7,7 @@ Hello, my name is Thiago Alves and I'm a fullstack developer 🚀
  - ⚡ UI / UX design enthusiast
  - 📫 Contact me: thiagoalves.devp@gmail.com
  
- [<img src="https://now-playing-thiagoalves.informatica.vercel.app/api/spotify-playing" alt="thiagoalves.informatica Spotify Playing" width="350" />](https://open.spotify.com/user/thiagoalves.informatica)
- 
+
  
 
  
