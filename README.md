@@ -12,5 +12,8 @@ Hello, my name is Thiago Alves and I'm a fullstack developer 🚀
  - 🌱 I'm Currently learning Typescript.
  - ⚡ UI / UX design enthusiast
  - 📫 Contact me: thiagoalves.devp@gmail.com
+ 
+ 
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=the-one-who-knoccks)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Thanks for visiting my profile!  
