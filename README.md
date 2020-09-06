@@ -1,5 +1,3 @@
-# Welcome! 👋
-
 
 Hello, my name is Thiago Alves and I'm a fullstack developer 🚀
 
