@@ -1,14 +1,5 @@
 # Welcome! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagoalves89/)](https://www.linkedin.com/in/thiagoalves89/)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/the-one-who-knoccks/)](https://github.com/the-one-who-knoccks/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/the.one.who.knoccks/)](https://www.instagram.com/the.one.who.knoccks/)
-[![Email Badge](https://img.shields.io/badge/-Email-3ABFE6?style=flat-square&logo=minutemailer&logoColor=white&link=mailto:thiagoalves.devp@gmail.com)](mailto:thiagoalves.devp@gmail.com)
-
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/thiagoalves.informatica)
-
-
 Hello, my name is Thiago Alves and I'm a fullstack developer 🚀
 
  - ⚡ Skills: HTML, CSS, JavaScript, React Node.js, SQL, MongoDB and Docker.
