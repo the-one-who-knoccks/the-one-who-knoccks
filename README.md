@@ -1,5 +1,5 @@
 
-Hello, my name is Thiago Alves and I'm a fullstack developer 🚀
+Hello, my name is Thiago Alves and I'm a software engineer. 🚀
 
  - ⚡ Skills: HTML, CSS, JavaScript, React Node.js, SQL, MongoDB and Docker.
  - 📚 I'm a software developer student at Rocketseat.
