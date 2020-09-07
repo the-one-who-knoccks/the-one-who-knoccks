@@ -1,7 +1,7 @@
 
 Hello, my name is Thiago Alves and I'm a software engineer. 🚀
 
- - ⚡ Skills: HTML, CSS, JavaScript, React Node.js, SQL, MongoDB and Docker.
+ - :fire: Skills: HTML, CSS, JavaScript, React Node.js, SQL, MongoDB and Docker.
  - 📚 I'm a software developer student at Rocketseat.
  - 🌱 I'm Currently learning Typescript.
  - ⚡ UI / UX design enthusiast
