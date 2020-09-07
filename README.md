@@ -13,8 +13,9 @@
 
 ### Stay in touch
 
+[<img align="left" alt="the.one.who.knoccks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" />]
 [<img align="left" alt="thiagoalves89 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
-[<img align="left" alt="the.one.who.knoccks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" target="_blank" />][instagram]
+[instagram]
 
 
 
