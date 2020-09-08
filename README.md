@@ -5,7 +5,7 @@
  - 📚 I'm a software developer student at Rocketseat.
  - 🌱 I'm Currently learning Typescript.
  - ⚡ UI / UX design enthusiast
- - :boy: I love code, play guitar, games and skateboard. :computer: :guitar: :video_game: :skate:
+ - :boy: I love code, play guitar, games and skateboard. :computer: :guitar: :video_game: 🛹
  - :email: Contact me: thiagoalves.devp@gmail.com
  
 
