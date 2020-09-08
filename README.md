@@ -7,7 +7,7 @@
  - ⚡ UI / UX design enthusiast
  - :email: Contact me: thiagoalves.devp@gmail.com
  
-
+### Spotify Playing 🎧
  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=the-one-who-knoccks&show_icons=true&theme=cobalt)
  
 
@@ -19,6 +19,7 @@
 [<img align="left" alt="the-one-who-knoccks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
+[![Spotify](https://now-playing-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/thiagoalves.informatica)
 
 
 
