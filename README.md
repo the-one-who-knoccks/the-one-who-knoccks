@@ -7,7 +7,7 @@
  - :boy: Eu :purple_heart: programar :computer:, tocar guitarra :guitar:, jogar games :video_game: andar de skate. 🛹
  - :email: Entre em contato: thiagoalves.devp@gmail.com
 
- <br />
+ <br /> 
  <br />
  
  ### Hello! I'm Thiago Alves. Software engineer and tech addict. :purple_heart: 
