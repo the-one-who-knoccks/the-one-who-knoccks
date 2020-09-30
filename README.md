@@ -1,4 +1,4 @@
- ### Olá, Me chamo Thiago Alves Bastos. Sou engenheiro de software e um viciado em tecnologia. :purple_heart: 🚀  
+ ### Olá, Me chamo Thiago Alves Bastos. Sou engenheiro de software e viciado em tecnologia. :purple_heart: 🚀  
          
  - :fire: Habilidades: HTML, CSS, JavaScript, React Node.js, SQL, MongoDB and Docker.  
  - 📚 Sou estudando da Rocketseat.      
@@ -6,7 +6,7 @@
  - ⚡ Enteusiasta de UI / UX design
  - :boy: Eu :purple_heart: programar :computer:, tocar guitarra :guitar:, jogar games :video_game: andar de skate. 🛹
  - :email: Entre em contato: thiagoalves.devp@gmail.com
- 
+
  
  <br />
  <br />
@@ -19,6 +19,8 @@
  - ⚡ UI / UX design enthusiast
  - :boy: I :purple_heart: code :computer:, play guitar :guitar:, games :video_game: and skateboard.🛹
  - :email: Contact me: thiagoalves.devp@gmail.com
+ 
+ <br />
       
      
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=the-one-who-knoccks&show_icons=true&theme=cobalt)
