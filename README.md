@@ -7,7 +7,6 @@
  - :boy: Eu :purple_heart: programar :computer:, tocar guitarra :guitar:, jogar games :video_game: andar de skate. 🛹
  - :email: Entre em contato: thiagoalves.devp@gmail.com
 
- 
  <br />
  <br />
  
@@ -20,6 +19,7 @@
  - :boy: I :purple_heart: code :computer:, play guitar :guitar:, games :video_game: and skateboard.🛹
  - :email: Contact me: thiagoalves.devp@gmail.com
  
+ <br />
  <br />
       
      
