@@ -1,6 +1,6 @@
 
 ### Hello! I'm Thiago Alves. Software engineer and tech addict. :purple_heart: 🚀  
-       
+         
  - :fire: Skills: HTML, CSS, JavaScript, React Node.js, SQL, MongoDB and Docker.  
  - 📚 I'm a software developer student at Rocketseat.      
  - 🌱 I'm Currently learning Typescript.    
