@@ -1,4 +1,4 @@
- ### Olá, Me chamo Thiago Alves Bastos. Sou engenheiro de software e viciado em tecnologia. :purple_heart:
+ ### Olá, Me chamo Thiago Alves Bastos. Sou Engenheiro de Software Jr. e viciado em tecnologia. :purple_heart:
          
  - :fire: Habilidades: HTML, CSS, JavaScript, React Node.js, SQL, MongoDB and Docker.  
  - 📚 Estudante da Rocketseat. 🚀 
@@ -10,7 +10,7 @@
  <br /> 
  <br />
  
- ### Hello! I'm Thiago Alves. Software engineer and tech addict. :purple_heart: 
+ ### Hello! I'm Thiago Alves. JR Software Engineer and tech addict. :purple_heart: 
          
  - :fire: Skills: HTML, CSS, JavaScript, React Node.js, SQL, MongoDB and Docker.  
  - 📚 I'm a software developer student at Rocketseat. 🚀   
