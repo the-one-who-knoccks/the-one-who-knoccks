@@ -9,7 +9,7 @@
    
  <br />  
  <br /> 
- 
+  
  ### Hello! I'm Thiago Alves. JR Software Engineer and tech addict. :purple_heart: 
          
  - :fire: Skills: HTML, CSS, JavaScript, React Node.js, SQL, MongoDB and Docker.  
