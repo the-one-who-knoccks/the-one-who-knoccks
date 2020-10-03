@@ -4,7 +4,7 @@
  - 📚 Estudante da Rocketseat. 🚀 
  - 🌱 Atualmente estou aprendendo Typescript.    
  - ⚡ Enteusiasta de UI / UX design
- - :boy: Eu :purple_heart: programar :computer:, tocar guitarra :guitar:, jogar games :video_game: andar de skate. 🛹
+ - :boy: Eu :purple_heart: programar :computer:, tocar guitarra :guitar:, jogar games :video_game: e andar de skate. 🛹
  - :email: Entre em contato: thiagoalves.devp@gmail.com
        
  <br />        
