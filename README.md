@@ -19,7 +19,7 @@
  - :boy: I :purple_heart: code :computer:, play guitar :guitar:, games :video_game: and skateboard.🛹
  - :email: Contact me: thiagoalves.devp@gmail.com
    
- <br /> 
+ <br />     
  <br /> 
       
      
