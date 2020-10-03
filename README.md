@@ -1,5 +1,5 @@
  ### Olá, Me chamo Thiago Alves Bastos. Sou Engenheiro de Software Jr. e viciado em tecnologia. :purple_heart:
-         
+   
  - :fire: Habilidades: HTML, CSS, JavaScript, React Node.js, SQL, MongoDB and Docker.  
  - 📚 Estudante da Rocketseat. 🚀 
  - 🌱 Atualmente estou aprendendo Typescript.    
