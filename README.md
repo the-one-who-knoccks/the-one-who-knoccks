@@ -8,7 +8,7 @@
  - :email: Entre em contato: thiagoalves.devp@gmail.com
        
  <br />        
- <br />     
+ <br />        
      
  ### Hello! I'm Thiago Alves. JR Software Engineer and tech addict. :purple_heart: 
          
