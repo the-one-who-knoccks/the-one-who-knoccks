@@ -29,7 +29,7 @@
 [![Spotify](https://now-playing-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/thiagoalves.informatica)
     
         
-### Stay in touch
+### Stay in touch 
   
       
 [<img align="left" alt="thiagoalves89 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" target="_blank" />][linkedin]
