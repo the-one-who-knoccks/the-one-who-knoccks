@@ -25,10 +25,6 @@
 
 
 
-
-
-
-
 [instagram]: https://instagram.com/the.one.who.knoccks
 [linkedin]: https://linkedin.com/in/thiagoalves89
 [twitter]: https://twitter.com/knoccks
