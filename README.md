@@ -24,8 +24,8 @@
 [<img align="left" alt="the-one-who-knoccks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" target="_blank" />][twitter]
 
 
-[instagram]: https://instagram.com/the.one.who.knoccks
+<div align="center>[instagram]: https://instagram.com/the.one.who.knoccks
 [twitter]: https://twitter.com/knoccks
-[linkedin]: https://linkedin.com/in/thiagoalves89
+[linkedin]: https://linkedin.com/in/thiagoalves89 </div>
 
 
