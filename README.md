@@ -27,7 +27,7 @@
       
 [<img align="center" alt="thiagoalves89 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="the.one.who.knoccks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
-[<img align="center" alt="the-one-who-knoccks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
+[<img align="right" alt="the-one-who-knoccks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
 
 [instagram]: https://instagram.com/the.one.who.knoccks
 [twitter]: https://twitter.com/knoccks
