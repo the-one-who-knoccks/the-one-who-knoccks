@@ -23,18 +23,7 @@
       
         
 ### Stay in touch 
-  
-      
-[<img align="center" alt="thiagoalves89 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="the.one.who.knoccks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]  
-[<img align="right" alt="the-one-who-knoccks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>][twitter]
-
-[instagram]: https://instagram.com/the.one.who.knoccks
-[twitter]: https://twitter.com/knoccks
-[linkedin]: https://linkedin.com/in/thiagoalves89
-
-
-
+ 
 [<img align="left" alt="thiagoalves89 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="the.one.who.knoccks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="the-one-who-knoccks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
