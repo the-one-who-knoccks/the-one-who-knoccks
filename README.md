@@ -1,6 +1,6 @@
  ### Hello! I'm Thiago Alves. JR. Front-end developer and tech addict. :purple_heart: 
          
- - :fire: Skills: HTML, CSS, JavaScript, React Node.js, SQL, MongoDB and Docker.  
+ - :fire: Skills: HTML5, CSS, JavaScript, React Node.js, SQL, MongoDB and Docker.  
  - 📚 I'm a full stack developer student at Rocketseat. 🚀   
  - 🌱 I'm Currently learning Typescript.      
  - ⚡ UI / UX design enthusiast
