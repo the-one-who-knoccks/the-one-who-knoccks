@@ -12,7 +12,7 @@
          
      
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=the-one-who-knoccks&show_icons=true&theme=cobalt)
-
+  
 
 ### Spotify Playing 🎧
 [![Spotify](https://now-playing-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/thiagoalves.informatica)
