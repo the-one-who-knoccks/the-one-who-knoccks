@@ -2,8 +2,8 @@
 const Developer = {
   name: 'Thiago Alves Bastos',
   age: 31,
-  Skills: ['HTML5, CSS, JavaScript, SQL, MongoDB, Docker'],
   stack: [ 'Reactjs, Node.js, React Native'],
+  skills: ['HTML5, CSS, JavaScript, SQL, MongoDB, Docker'],
   status: "I'm Currently learning Typescript",
   hobby: 'I 💜 code, play guitar 🎸, games 🎮 and skateboard.🛹'
   }
