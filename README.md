@@ -4,7 +4,7 @@ const Developer = {
   age: 31,
   stack: [ 'Reactjs, Node.js, React Native'],
   skills: ['HTML5, CSS, JavaScript, SQL, MongoDB, Docker'],
-  status: "I'm Currently learning Typescript",
+  status: "I'm Currently learning TypeScript",
   hobbies: 'I 💜 code, play guitar 🎸, games 🎮 and skateboard.🛹'
   }
 
