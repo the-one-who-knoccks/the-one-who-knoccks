@@ -1,11 +1,15 @@
- ### Hello! I'm Thiago Alves. JR. Front-end developer and tech addict. :purple_heart: 
-         
- - :fire: Skills: HTML5, CSS, JavaScript, React Node.js, SQL, MongoDB and Docker.  
- - 📚 I'm a full stack developer student at Rocketseat. 🚀   
- - 🌱 I'm Currently learning Typescript.           
- - ⚡ UI / UX design enthusiast
- - :boy: I :purple_heart: code :computer:, play guitar :guitar:, games :video_game: and skateboard.🛹
- - :email: Contact me: thiagoalves.devp@gmail.com    
+```javascript
+const Developer = {
+  name: 'Thiago Alves Bastos',
+  age: 31,
+  Skills: ['HTML5, CSS, JavaScript, SQL, MongoDB, Docker'],
+  stack: [ 'Reactjs, Node.js, React Native'],
+  status: "I'm Currently learning Typescript",
+  hobby: 'I 💜 code, play guitar 🎸, games 🎮 and skateboard.🛹'
+  }
+
+  console.log(Developer);
+ ```
       
  <br />          
  <br />       
@@ -17,8 +21,6 @@
 ### Spotify Playing 🎧
 [![Spotify](https://now-playing-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/thiagoalves.informatica)
 
-
-    
       
         
 ### Stay in touch 
@@ -33,3 +35,4 @@
 [linkedin]: https://linkedin.com/in/thiagoalves89
  
  
+
