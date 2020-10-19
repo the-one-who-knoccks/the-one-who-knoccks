@@ -1,5 +1,5 @@
 ```javascript
-function showDevInfo() {
+function showDevInfo() { 
   const Developer = {
     name: "Thiago Alves Bastos",
     age: 31,
