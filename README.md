@@ -1,4 +1,4 @@
-```console
+```bash
 function showDevInfo() {  
   const Developer = {
     name: "Thiago Alves Bastos",
