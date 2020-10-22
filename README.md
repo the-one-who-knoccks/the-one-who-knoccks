@@ -1,4 +1,4 @@
-```bash
+```zsh
 function showDevInfo() {  
   const Developer = {
     name: "Thiago Alves Bastos",
