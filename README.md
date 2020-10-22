@@ -8,7 +8,7 @@ function showDevInfo() {
     status: "I'm Currently learning Typescript",
     hobbies: "I 💜 code, play guitar 🎸, games 🎮 and skateboard.🛹",
   };
-
+   
   return (Developer); 
 }; 
    
