@@ -12,7 +12,7 @@ function showDevInfo() {
   return (Developer);  
 }; 
    
-console.log(showDevInfo());
+console.log(showDevInfo()); 
  
   
  ``` 
