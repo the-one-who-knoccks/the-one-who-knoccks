@@ -1,6 +1,6 @@
 ```javascript 
 function showDevInfo() {  
-  const Developer = {
+  const Developer = {  
     name: "Thiago Alves Bastos",
     age: 31,  
     stack: ["Reactjs, Node.js, React Native"],
@@ -16,7 +16,7 @@ console.log(showDevInfo());
       
  ```     
                 
- <br />                            
+ <br />                             
  <br />                      
                     
          
