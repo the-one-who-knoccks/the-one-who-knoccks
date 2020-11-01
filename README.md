@@ -13,7 +13,7 @@ const showDevInfo = () => {
 };     
 
 
-console.log(showDevInfo())
+console.log(showDevInfo()) 
     
       
  ```     
