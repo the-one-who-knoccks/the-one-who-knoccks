@@ -9,7 +9,7 @@ const showDevInfo = () => {
     hobbies: "I 💜 code, play guitar 🎸, games 🎮 and skateboard.🛹",   
  };
        
-  return (Developer);          
+  return (Developer);           
 };       
  
    
