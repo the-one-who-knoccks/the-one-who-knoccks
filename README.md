@@ -42,4 +42,4 @@ console.log(showDevInfo())
 [linkedin]: https://linkedin.com/in/thiagoalves89
  
  
-  
+   
