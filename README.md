@@ -1,6 +1,6 @@
 ```javascript 
 const showDevInfo = () => {  
-  Developer = {  
+  Developer = {   
     name: "Thiago Alves Bastos",
     age: 31,  
     stack: ["Reactjs, Node.js, React Native"],
@@ -28,7 +28,7 @@ console.log(showDevInfo())
 ### Spotify Playing 🎧 
 [![Spotify](https://now-playing-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/thiagoalves.informatica)
   
-             
+              
                
 ### Stay in touch        
    
