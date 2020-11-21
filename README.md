@@ -30,7 +30,7 @@ console.log(showDevInfo())
                  
                                                   
                                                      
-### Stay in touch                             
+### Stay in touch                              
        
 [<img align="left" alt="the-one-who-knoccks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="the.one.who.knoccks | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -42,5 +42,5 @@ console.log(showDevInfo())
 [linkedin]: https://linkedin.com/in/thiagoalves89
    
      
-         
+          
   
