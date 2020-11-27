@@ -18,7 +18,7 @@ const Developer = {
               
 ### Spotify Playing 🎧        
 [![Spotify](https://now-playing-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/thiagoalves.informatica)
-                      
+                       
                                                                 
                                                                       
 ### Stay in touch                                             
