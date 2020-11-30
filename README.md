@@ -7,7 +7,7 @@ const Developer = {
     hobbies: "I 💜 code, play guitar 🎸, games 🎮 and skateboard.🛹",    
  };
    
- ```                     
+ ```                      
                          
  <br />                                                                      
  <br />                                                           
@@ -28,7 +28,7 @@ const Developer = {
 [<img align="left" alt="the-one-who-knoccks | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
        
           
-[twitter]: https://twitter.com/the-one-who-knoccks   
+[twitter]: https://twitter.com/the-one-who-knoccks    
 [instagram]: https://instagram.com/the.one.who.knoccks 
 [linkedin]: https://linkedin.com/in/thiagoalves89 
    
