@@ -33,7 +33,7 @@ const Developer = {
 [linkedin]: https://linkedin.com/in/thiagoalves89 
    
         
-                
+                 
   
  
    
