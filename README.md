@@ -6,7 +6,7 @@ const Developer = {
     status: "I'm Currently learning TypeScript",    
     hobbies: "I 💜 code, play guitar 🎸, games 🎮 and skateboard.🛹",    
  };
-   
+    
  ```                      
                              
  <br />                                                                       
