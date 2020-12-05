@@ -20,7 +20,7 @@ const Developer = {
 [![Spotify](https://now-playing-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/thiagoalves.informatica)
                                
                                                                           
-                                                                                             
+                                                                                              
 ### Stay in touch                                                    
           
 [<img align="left" alt="the-one-who-knoccks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
