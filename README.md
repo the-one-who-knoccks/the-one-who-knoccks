@@ -17,7 +17,7 @@ const Developer = {
            
                         
 ### Spotify Playing 🎧              
-[![Spotify](https://now-playing-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/thiagoalves.informatica)
+[![Spotify](https://now-playing-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/thiagoalves.devp)
                                  
                                                                                      
                                                                                                             
