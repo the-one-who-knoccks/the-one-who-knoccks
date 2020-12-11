@@ -17,10 +17,10 @@ const Developer = {
            
                         
 ### Spotify Playing 🎧              
-[![Spotify](https://now-playing-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/thiagoalves.devp)
+[![Spotify](https://now-playing-spotify.vercel.app/api/spotify)](https://open.spotify.com/user/4bqhduwc9zy3lnu569vw34txr)
                                  
                                                                                      
-                                                                                                            
+                                                                                                             
 ### Stay in touch                                                          
           
 [<img align="left" alt="the-one-who-knoccks | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
