@@ -5,7 +5,7 @@ const Developer = {
     skills: ["HTML5, CSS, JavaScript, SQL, MongoDB, Docker"], 
     status: "I'm Currently learning TypeScript",    
     hobbies: "I 💜 code, play guitar 🎸, games 🎮 and skateboard.🛹",       
- }; 
+ };  
          
  ```                                
                                                          
