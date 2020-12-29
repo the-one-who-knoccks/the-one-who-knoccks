@@ -7,9 +7,9 @@ const Developer = {
     hobbies: "I 💜 code, play guitar 🎸, games 🎮 and skateboard.🛹",       
  };    
               
- ```                                   
+ ```                                    
                                                                   
- <br />                                                                                                          
+ <br />                                                                                                           
  <br />                                                                                             
                                                                
                          
