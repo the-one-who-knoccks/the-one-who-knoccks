@@ -6,11 +6,11 @@ const Developer = {
     status: "I'm Currently learning TypeScript",       
     hobbies: "I 💜 code, play guitar 🎸, games 🎮 and skateboard.🛹",           
  };         
-                                   
+                                    
  ```                                                                      
-                                                                                                                  
+                                                                                                                   
  <br />                                                                                                                                                         
- <br />                                                                                                                                                                               
+ <br />                                                                                                                                                                              
                                                                                                               
                                 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=the-one-who-knoccks&show_icons=true&theme=dark)
