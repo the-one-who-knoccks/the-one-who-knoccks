@@ -2,8 +2,8 @@
 const Developer = {     
     name: "Thiago Alves Bastos", 
     stack: ["Reactjs, Node.js, React Native"], 
-    skills: ["HTML5, CSS, JavaScript, SQL, MongoDB, Docker"],     
-    status: "I'm Currently learning TypeScript",          
+    skills: ["HTML5, CSS, JavaScript, TypeScript SQL, MongoDB, Docker"],     
+    status: "I'm Currently learning Next.js",          
     hobbies: "I 💜 code, play guitar 🎸, games 🎮 and skateboard.🛹",            
  };          
                                           
