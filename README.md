@@ -1,16 +1,4 @@
-```javascript 
-const Developer = {     
-    name: "Thiago Alves Bastos", 
-    stack: ["Reactjs, Node.js, React Native"], 
-    skills: ["HTML5, CSS, JavaScript, TypeScript SQL, MongoDB, Docker"],     
-    status: "I'm Currently learning Next.js",          
-    hobbies: "I 💜 code, play guitar 🎸, games 🎮 and skateboard.🛹",            
- };          
-                                          
- ```                                                                             
-                                                                                                                                
- <br />                                                                                                                                                                                   
- <br />                                                                                                                                                                                              
+                       
                                                                                                                
                                 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=the-one-who-knoccks&show_icons=true&theme=dark)
