@@ -18,7 +18,7 @@
                     
 [twitter]: https://twitter.com/the-one-who-knoccks       
 [instagram]: https://instagram.com/the.one.who.knoccks      
-[linkedin]: https://linkedin.com/in/thiagoalves89 
+[linkedin]: https://linkedin.com/in/thiagoalves89  
             
              
                    
